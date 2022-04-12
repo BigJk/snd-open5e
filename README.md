@@ -5,4 +5,4 @@ Open5e Data Sources for S&amp;D
 
 **Open Game License v1.0a Copyright 2000, Wizards of the Coast, Inc.**
 
-Uses content from the 5e SRD and covered by OGL.
+Uses content from the 5e SRD covered by the OGL.
