@@ -1,5 +1,5 @@
 # snd-open5e
-Open5e Data Sources for S&amp;D
+Open5e Data Sources for [Sales &amp; Dungeons](https://github.com/BigJk/snd)
 
 ## License
 
